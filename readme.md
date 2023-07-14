@@ -21,7 +21,7 @@ Hello! I am $name, i am $age years old a person with an $characteristic. I am pa
 ###### Text
 Text được truyền vào từ user
 
-###### Token
+###### Api Key
 -MinhTX cung cấp
 
 
